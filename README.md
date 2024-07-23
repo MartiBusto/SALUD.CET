@@ -1,4 +1,4 @@
-¡Bienvenidos a nuestra pagina web ,este es un proyecto de chicas en tencologia dedicado a la prevencion y promocion de la salud mental de los adolescentes!
+¡Bienvenidos a nuestra pagina web, este es un proyecto de chicas en tecnologia dedicado a la prevencion y promocion de la salud mental de los adolescentes!
 
 La adolescencia es un momento de cambios emocionantes y desafiantes. Aquí encontrarás herramientas y consejos respaldados por la ciencia para cuidar de tu bienestar mental y emocional.
 
