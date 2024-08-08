@@ -9,4 +9,6 @@ function muestra_oculta(id) {
     else {
       div.style.display = "none";
     }
+
 }
+
