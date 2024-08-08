@@ -1,13 +1,13 @@
 body {
     text-align: center;
-    background-color: #907661;
+    background-color: #ffffff;
     font-family: 'Century Gothic';
     font-size: 20px;
     font-weight: 500;
     color: #3d240f;
 }
 header {
-    background-color: #553d2a;
+    background-color: #15465c;
     color: #fff;
     display: flex;
     flex-wrap: wrap;
