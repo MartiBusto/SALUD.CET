@@ -12,3 +12,13 @@ function muestra_oculta(id) {
 
 }
 
+// viendo si me sale el codigo para dejar ingresar a ciertas personas, y otras no. si quieren lo pueden borrar despues //
+
+let anios = prompt("¿Que edad tenes?");
+
+while (anios < 10||anios > 19) {
+     alert("No podes ingresar a la pagina");
+     anios = prompt("¿Que edad tenes?");
+}
+
+alert("Bienvenido/a");
